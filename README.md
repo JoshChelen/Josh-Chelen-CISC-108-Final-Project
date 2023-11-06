@@ -1,3 +1,3 @@
-Final project partner name: N/A 
-
-My github username: JoshChelend
+Final project partner name: N/A
+GitHub UN: JoshChelen
+udel: jchelen@udel.edu
