@@ -11,12 +11,43 @@ the state of the caterpillar.
 Pre-Work Task List
 
 [X] Create a level brain storming google doc
-[ ] Define each level in the google doc
-[ ] Define each lab report in the google doc
-[ ] Create Phase 1 task list
+[X] Define each level in the google doc
+[X] Define each lab report in the google doc
+[X] Create Phase 1 task list
+[X] Phase 2 Task List
+[X] Phase 3 Task List
 
 Phase 1 Task List
+Setup:
+[X] Give Worm Movement
+[X] Ability to create fruits
+[X] Let Worm Eat Fruits
 
 Phase 2 Task List
+Levels:
+[] Create level system
+[] Create Levels
+[] Lab Report Level Transition
+
+Interactions:
+[] Create enemy behaivor
+[] Create worm attack ability
+[] Create enemies
+
 
 Phase 3 Task List
+
+Decoration:
+[] Backgrounds
+[] Other decoration stuff I think of
+[] Look over all functions and revise documentation if necessary
+
+Bosses:
+[] VS Lab Scientist 
+[] VS US Navy
+[] VS Earth
+
+Other
+[] Intro
+[] Pause Menu
+[] Ending
