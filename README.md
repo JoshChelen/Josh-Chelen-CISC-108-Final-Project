@@ -8,8 +8,10 @@ urge to consume. I want the game to have 5 stages/levels, with each becoming mor
 than the last. Between each stage there would be a cutscene of a lab report that describes
 the state of the caterpillar. 
 
-Pre-Work Task List
+MILESTONE 1 VIDEO LINK: https://youtu.be/AtIzkuz9dQM
 
+
+Pre-Work Task List
 [X] Create a level brain storming google doc
 [X] Define each level in the google doc
 [X] Define each lab report in the google doc
