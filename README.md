@@ -11,13 +11,13 @@ the state of the caterpillar.
 MILESTONE 1 VIDEO LINK: https://youtu.be/AtIzkuz9dQM
 
 
-Pre-Work Task List
-[X] Create a level brain storming google doc
-[X] Define each level in the google doc
-[X] Define each lab report in the google doc
-[X] Create Phase 1 task list
-[X] Phase 2 Task List
-[X] Phase 3 Task List
+Pre-Work Task List:
+- [x] Create a level brain storming google doc
+- [x] Define each level in the google doc
+- [x] Define each lab report in the google doc
+- [x] Create Phase 1 task list
+- [x] Phase 2 Task List
+- [x] Phase 3 Task List
 
 Phase 1 Task List
 Setup:
