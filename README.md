@@ -9,7 +9,7 @@ than the last. Between each stage there would be a cutscene of a lab report that
 the state of the caterpillar. 
 
 MILESTONE 1 VIDEO LINK: https://youtu.be/AtIzkuz9dQM
-
+MILESTONE 2 VIDEO LINK: https://youtu.be/ORd9ToARTBc
 
 Pre-Work Task List
 [X] Create a level brain storming google doc
@@ -20,36 +20,18 @@ Pre-Work Task List
 [X] Phase 3 Task List
 
 Phase 1 Task List
-Setup:
 [X] Give Worm Movement
 [X] Ability to create fruits
 [X] Let Worm Eat Fruits
 
 Phase 2 Task List
-Levels:
-[] Create level system
-[] Create Levels
-[] Lab Report Level Transition
-
-Interactions:
-[] Create enemy behaivor
-[] Create worm attack ability
-[] Create enemies
-
+[X] Create wave system
+[X] Worm increases in size when eating
+[X] Win/All waves complete condition
 
 Phase 3 Task List
-
-Decoration:
-[] Backgrounds
-[] Other decoration stuff I think of
-[] Look over all functions and revise documentation if necessary
-
-Bosses:
-[] VS Lab Scientist 
-[] VS US Navy
-[] VS Earth
-
-Other
-[] Intro
-[] Pause Menu
-[] Ending
+[] Create enemies
+[] Create other abilities
+[] Health/dying System
+[] Make some decorations
+[] Final code cleanup
