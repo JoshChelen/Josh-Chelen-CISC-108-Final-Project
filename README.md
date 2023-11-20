@@ -11,7 +11,6 @@ the state of the caterpillar.
 MILESTONE 1 VIDEO LINK: https://youtu.be/AtIzkuz9dQM
 MILESTONE 2 VIDEO LINK: https://youtu.be/ORd9ToARTBc
 
-
 Pre-Work Task List
 [X] Create a level brain storming google doc
 [X] Define each level in the google doc
