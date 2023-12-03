@@ -34,4 +34,4 @@ Phase 3 Task List
 -[X] Lose Condition (health system/dying)
 -[X] make movement continuous
 -[X] Create other abilities
--[X] Create enemies
+-[X] Create some enemies
